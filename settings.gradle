@@ -1,0 +1,1 @@
+include ':app', ':strict_code_plugin', ':strict_code'
